@@ -147,7 +147,7 @@ body {
 
 .slider-controls {
   position: absolute;
-  bottom: 25px;
+  bottom: 15px;
   left: 60px;
   display: flex;
   align-items: center;
@@ -213,3 +213,4 @@ body {
     justify-content: space-between;
   }
 }
+
